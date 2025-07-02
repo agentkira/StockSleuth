@@ -17,16 +17,17 @@
 
 ## 🧰 Tech Stack
 
-| Component      | Technology                      |
-|----------------|----------------------------------|
-| Frontend       | React, TailwindCSS               |
-| Backend        | FastAPI                          |
-| Embeddings     | HuggingFace (`all-MiniLM-L6-v2`) |
-| Vector Store   | ChromaDB                         |
-| Data Sources   | yFinance, Wikipedia, NewsAPI     |
-| PDF Parsing    | PyPDF / pdfplumber               |
+| Component      | Technology                              |
+|----------------|------------------------------------------|
+| Frontend       | React, TailwindCSS                       |
+| Backend        | FastAPI                                  |
+| Embeddings     | HuggingFace (`all-MiniLM-L6-v2`)         |
+| Vector Store   | ChromaDB                                 |
+| Database       | PostgreSQL                               |
+| LLM Backbone   | Gemini API                               |
+| Data Sources   | yFinance, Wikipedia, NewsAPI             |
+| PDF Parsing    | PyPDF / pdfplumber                       |
 
----
 
-## 📂 Project Structure
+
 
