@@ -3,7 +3,7 @@
 **StockSleuth** is an AI-powered financial market assistant that allows users to ask questions about stocks, upload PDFs, and explore financial trends. It leverages a Retrieval-Augmented Generation (RAG) architecture backed by a FastAPI backend and a sleek TailwindCSS + React frontend.
 
 ---
-![StockSleuth Demo](demo.png)
+![StockSleuth Demo](Demo.png)
 
 ## 🚀 Features
 
